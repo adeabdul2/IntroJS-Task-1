@@ -1,5 +1,5 @@
 const names = "Abdulafeez Adesokan";
-const height = "5feet 7 inches";
+const height = "5 feet 7 inches";
 const country = "Nigeria";
 
 function aboutMe(){
@@ -8,5 +8,5 @@ function aboutMe(){
     alert("Hi! My name is " + names + ". I am " + height + " tall and I am from Lagos, " + country + ".");
 
 }
-
+// JUST PRESS ENTER
 aboutMe()
