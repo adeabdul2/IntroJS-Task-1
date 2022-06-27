@@ -1,10 +1,9 @@
 # IntroJS-Task-1
 A small JavaScript code to print out personal details on to the screen.
 
-To run the code.
+Link to Github page
 ---
 
 ```
-Simply copy the code to your browser's console
-And PRESS ENTER!
+https://adeabdul2.github.io/printout/
 ```
